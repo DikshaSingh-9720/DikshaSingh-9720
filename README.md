@@ -16,23 +16,29 @@
 ---
 
 ## 💼 Featured Projects  
-🔹 **[Zerodha Clone](https://github.com/DikshaSingh-9720/Zerodha-Clone)** — Trading clone with stock management & secure auth.  
-🔹 **[Chatrx](https://github.com/DikshaSingh-9720/Chatrx)** — Real-time video conferencing with **WebRTC & Socket.IO**.  
-🔹 **[Waybnb](https://github.com/DikshaSingh-9720/Waybnb)** — Travel listings with maps & user reviews.  
+
+🔹 **[Zerodha Clone](https://github.com/yourusername/Tradexa)** — A full-fledged trading platform with real-time stock updates, secure authentication, and dashboard analytics.  
+🔹 **[Chatrx](https://github.com/yourusername/Chatrx)** — Real-time video conferencing app built with **WebRTC** & **Socket.IO**, featuring chat, screen share, and file sharing.  
+🔹 **[Waybnb](https://github.com/yourusername/Waybnb)** — Airbnb-style travel booking app with **map integration**, reviews, and user authentication.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages & Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,java" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,fastapi,threejs" />
 </p>
 
 ### ⚙️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,cloudinary,supabase" />
 </p>
+
+---
+
+📫 **Reach me at:** [dikshasingh@example.com](mailto:dikshasingh@example.com)
+
 
 ---
 

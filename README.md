@@ -1,3 +1,8 @@
+<!-- Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/DikshaSingh-9720" width="150" style="border-radius:50%" alt="Diksha Singh"/>
+</p>
+
 # 👋 Hi, I'm Diksha Singh  
 
 ### 🚀 Frontend Developer | MERN Stack Enthusiast | Open Source Contributor  

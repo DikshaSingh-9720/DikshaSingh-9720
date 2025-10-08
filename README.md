@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/DikshaSingh-9720" width="150" style="border-radius:50%" style="display:hidden" alt="Diksha Singh"/>
+  <img src="" width="150" style="border-radius:50%" style="display:hidden" alt="Diksha Singh"/>
 </p>
 
 # 👋 Hi, I'm Diksha Singh  

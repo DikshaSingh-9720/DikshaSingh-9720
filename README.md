@@ -1,7 +1,3 @@
-<!-- Profile Image -->
-<p align="center">
-  <!-- <img src="" width="150" style="border-radius:50%" style="display:hidden" /> -->
-</p>
 
 # 👋 Hi, I'm Diksha Singh  
 

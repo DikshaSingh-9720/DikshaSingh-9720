@@ -1,4 +1,3 @@
-<!-- 👋 INTRO -->
 # 👋 Hi, I'm Diksha Singh  
 
 ### 🚀 Frontend Developer | MERN Stack Enthusiast | Open Source Contributor  
@@ -10,34 +9,29 @@
 ## 🧠 About Me  
 💻 Passionate **Frontend Developer** skilled in **HTML, CSS, JavaScript, React.js**, with backend experience in **Node.js, Express, MongoDB**.  
 🎓 Pursuing **B.Tech (Honors) in CSE (Cyber Security)** from **AKTU (2022–2026)**.  
-🚀 Completed **MERN Stack Development Course (Delta 5.0)** — *Apna College*.  
+🚀 Completed **MERN Stack Development Course (Delta 5.0)** — Apna College.  
 🌱 Active **Open Source Contributor** at **GSSoC 2025**.  
 
 ---
 
 ## 💼 Featured Projects  
-
-🔹 **[Zerodha Clone](https://github.com/DikshaSingh-9720/Zerodha-Clone)** — Trading platform with **real-time stock updates**, **secure authentication**, and **dashboard analytics**.  
-🔹 **[Chatrx](https://github.com/DikshaSingh-9720/Chatrx)** — Real-time **video conferencing app** with chat, screen sharing, and file sharing using **WebRTC & Socket.IO**.  
-🔹 **[Waybnb](https://github.com/DikshaSingh-9720/Waybnb)** — Airbnb-style **travel listing** platform with **map integration**, reviews, and authentication.  
+🔹 **[Zerodha Clone](https://github.com/DikshaSingh-9720/Zerodha-Clone)** — Trading clone with stock management & secure auth.  
+🔹 **[Chatrx](https://github.com/DikshaSingh-9720/Chatrx)** — Real-time video conferencing with **WebRTC & Socket.IO**.  
+🔹 **[Waybnb](https://github.com/DikshaSingh-9720/Waybnb)** — Travel listings with maps & user reviews.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages & Frameworks  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,threejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,java" />
 </p>
 
 ### ⚙️ Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,cloudinary,supabase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
-
----
-
-📫 **Reach me at:** [dikshasingh25202520@gmail.com](mailto:dikshasingh25202520@gmail.com)
 
 ---
 
@@ -68,4 +62,4 @@
 
 ---
 
-⭐️ *From [Diksha Singh](https://github.com/DikshaSingh-9720)*  
+⭐️ *From [Diksha Singh](https://github.com/DikshaSingh-9720)*

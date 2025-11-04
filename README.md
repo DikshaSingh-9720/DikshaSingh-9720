@@ -28,10 +28,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,java" />
 </p>
 
-### ⚙️ Tools & Platforms  
-<p align="center">
+<p align="center" style="background-color:#1e1e1e; padding:10px; border-radius:10px;">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
+
 
 ---
 

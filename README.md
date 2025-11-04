@@ -46,10 +46,11 @@
 
 ---
 
-## 🏆 Trophies  
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DikshaSingh-9720&theme=dracula&no-frame=true&margin-w=10" />
 </p>
+
 
 ---
 

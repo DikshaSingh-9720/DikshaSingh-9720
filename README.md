@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=ff79c6&lines=Frontend+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=ff79c6&lines=Full+Stack+Developer+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning!)](https://git.io/typing-svg)
 
 ---
 

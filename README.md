@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=ff79c6&lines=Full+Stack+Developer+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=22&color=ff79c6&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Always+Learning!)](https://git.io/typing-svg)
 
 ---
 
@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikshaSingh-9720&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshaSingh-9720&layout=compact&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=DikshaSingh-9720&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=DikshaSingh-9720&layout=compact&theme=tokyonight" height="160px" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DikshaSingh-9720&theme=radical" height="150px" />

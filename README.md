@@ -1,6 +1,6 @@
 # 🌟 Diksha Singh — Full Stack Developer (MERN) & Open Source Contributor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3500&pause=1200&color=FF79C6&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Frontend+%26+Backend+Developer;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3500&pause=1200&color=FF79C6&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Frontend+%26+Backend+Developer;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
 
 ---
 

@@ -9,7 +9,7 @@
 💡 Passionate and growth-driven **Full Stack Developer** with strong expertise in **React, Node.js, Express, MongoDB**, and modern frontend technologies.  
 🎓 Pursuing **B.Tech (Hons.) in CSE (Cyber Security)** from **AKTU (2022–2026)**.  
 📚 Completed **Delta 5.0 — MERN Stack Development Course** from Apna College.  
-🌍 Actively contributing to open source at **GSSoC 2025**.  
+🌍 contributed to open source at **GSSoC 2025**.  
 🚀 I love building real-world applications, solving problems, and improving my skills through **DSA** and project-based learning.  
 
 ---
@@ -47,23 +47,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api?username=DikshaSingh-9720&show_icons=true&theme=radical" height="160px" />
-  <img src="https://github-readme-stats-git-masterorgs.vercel.app/api/top-langs/?username=DikshaSingh-9720&layout=compact&theme=tokyonight" height="160px" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=DikshaSingh-9720&theme=radical" height="145px" />
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DikshaSingh-9720&theme=dracula&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
